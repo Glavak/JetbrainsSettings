@@ -1,0 +1,65 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-08-03T11:21:49</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2017.1.0.0</property>
+    <property name="modified">2017-08-03T13:39:22</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <attributes>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="4105" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="DEFAULT_GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="4105" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="ReSharper.EVENT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="ReSharper.LATE_BOUND_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="ReSharper.NAMESPACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
