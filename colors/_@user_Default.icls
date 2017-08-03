@@ -12,7 +12,7 @@
   <attributes>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="4105" />
+        <option name="FOREGROUND" value="6A28" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -32,7 +32,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="4105" />
+        <option name="FOREGROUND" value="6A28" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
